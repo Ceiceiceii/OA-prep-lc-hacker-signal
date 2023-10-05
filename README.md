@@ -1,2 +1,4 @@
-# OA-prep-lc-hacker-signal
-Coding prep diary
+# Coding prep diary
+
+start to document all the questions and thoughts in daily coding prep in Leetcode, CodeSignal, and Hackerrank
+
